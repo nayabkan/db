@@ -3364,7 +3364,6 @@ function Home() {
                     </h4>
                   </div>                </div>
               </div>
-              {/* End of Product Wrap */}
               <div className="product-wrap mb-0">
                 <div className="product product-widget">
                 <figure className="product-media" style={{
@@ -3373,7 +3372,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3382,7 +3381,7 @@ function Home() {
                     </a>
                   </figure>
                 <div className="product-details">
-                  <div className="product-price">United Kingdom</div>
+                  <div className="product-price">United Arab Emirates</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{ marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3392,6 +3391,7 @@ function Home() {
                   </div>
                 </div>
               </div>
+              {/* End of Product Wrap */} 
               {/* End of Product Wrap */}
               <div className="product-wrap mb-0">
                 <div className="product product-widget">
@@ -3420,6 +3420,7 @@ function Home() {
                   </div>
                 </div>
               </div>
+              
               {/* End of Product Wrap */}
               <div className="product-wrap mb-0">
                 <div className="product product-widget">
@@ -3429,7 +3430,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://cdn.britannica.com/88/7888-004-FD4BC606/Flag-Slovakia.jpg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3438,7 +3439,7 @@ function Home() {
                     </a>
                   </figure>
                 <div className="product-details">
-                  <div className="product-price">Solvakia</div>
+                  <div className="product-price">Saudi Arabia</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{ marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3457,7 +3458,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1024px-Flag_of_Bahrain.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3466,7 +3467,7 @@ function Home() {
                     </a>
                   </figure>
                 <div className="product-details">
-                  <div className="product-price">England</div>
+                  <div className="product-price">Bahrain</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{  marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3485,7 +3486,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1024px-Flag_of_Turkey.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3494,7 +3495,7 @@ function Home() {
                     </a>
                   </figure>
                   <div className="product-details">
-                  <div className="product-price">Australia</div>
+                  <div className="product-price">Turkey</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{ marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3532,6 +3533,8 @@ function Home() {
                   </div>
                 </div>
               </div>
+              
+                      
               {/* End of Product Wrap */}
             </div>
             {/* End of Product Widget */}
@@ -3544,7 +3547,7 @@ function Home() {
                 More Products
                 <i class="fa-solid fa-arrow-right-long"></i>
               </a>
-            </div>
+              </div>
             <div className="row cols-lg-4 cols-md-3 cols-xs-2 cols-1 appear-animate" style={{ marginBottom : '30px'}}>
               <div className="product-wrap mb-0">
                 <div className="product product-widget">
@@ -3609,7 +3612,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3618,7 +3621,7 @@ function Home() {
                     </a>
                   </figure>
                 <div className="product-details">
-                  <div className="product-price">United Kingdom</div>
+                  <div className="product-price">United Arab Emirates</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{ marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3665,7 +3668,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://cdn.britannica.com/88/7888-004-FD4BC606/Flag-Slovakia.jpg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3674,7 +3677,7 @@ function Home() {
                     </a>
                   </figure>
                 <div className="product-details">
-                  <div className="product-price">Solvakia</div>
+                  <div className="product-price">Saudi Arabia</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{ marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3693,7 +3696,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1024px-Flag_of_Bahrain.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3702,7 +3705,7 @@ function Home() {
                     </a>
                   </figure>
                 <div className="product-details">
-                  <div className="product-price">England</div>
+                  <div className="product-price">Bahrain</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{  marginTop:'-8px'}}>
                       <a href="product-default.html">
@@ -3721,7 +3724,7 @@ function Home() {
                         }}>
                     <a href="product-default.html">
                       <img
-                        src="https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1024px-Flag_of_Turkey.svg.png"
                         alt="Product"
                         width={600}
                         height={675}
@@ -3730,7 +3733,7 @@ function Home() {
                     </a>
                   </figure>
                   <div className="product-details">
-                  <div className="product-price">Australia</div>
+                  <div className="product-price">Turkey</div>
                   <p style={{ color : 'grey', marginTop:'-12px'}}> 30 Mar, 2022</p>
                     <h4 className="product-name" style={{ marginTop:'-8px'}}>
                       <a href="product-default.html">
